@@ -1,3 +1,6 @@
+import os
+os.system("pip install amino.fix")
+os.system("pip install amino.py")
 import aminofix as amino
 from  threading import Thread
 import  requests,os
